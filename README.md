@@ -83,12 +83,6 @@ Contributions, feedback, and ideas are welcome! Feel free to fork the repo, subm
 
 ---
 
-## 📜 License
-
-[MIT License](LICENSE)
-
----
-
 ## 🙌 Acknowledgments
 
 - OpenAI & Hugging Face for NLP tools
